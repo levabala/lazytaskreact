@@ -1,6 +1,6 @@
 {
   "name": "lazytaskreact",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "lazytask implementation for react",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
