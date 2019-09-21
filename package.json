@@ -1,6 +1,6 @@
 {
   "name": "lazytaskreact",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "lazytask implementation for react",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
@@ -50,7 +50,13 @@
   "engines": {
     "node": ">=8.9"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@types/react": "^16.9.2",
+    "@types/react-dom": "^16.9.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "unstated-next": "^1.1.0"
+  },
   "devDependencies": {
     "@bitjson/npm-scripts-info": "^1.0.0",
     "@bitjson/typedoc": "^0.15.0-0",
